@@ -1,0 +1,367 @@
+{
+  "semester": "HS26",
+  "title": "HS26 Kurs-Links",
+  "subtitle": "Rechtswissenschaftliche Fakultät UZH · Assessmentstufe, 1. Semester",
+  "verifiedOn": "2026-09-13",
+  "modules": [
+    {
+      "title": "Juristisches Arbeiten",
+      "code": "02SM60PM2",
+      "lectures": [
+        {
+          "key": "ws",
+          "title": "Wissenschaftliches Schreiben",
+          "kind": "Vorlesung mit integrierter Übung",
+          "groupOptions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+          "groups": [
+            {
+              "label": "Gruppe 1–12",
+              "covers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+              "lecturers": ["Helen Keller", "Übungsleitende"],
+              "links": [
+                { "label": "Kursseite (Prof. Keller, SCIL)", "url": "https://www.scil.uzh.ch/de/institutsmitglieder/keller/Lehrveranstaltungen/HS-26/Wissenschaftliches-Schreiben.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs (Unterlagen, Selbsttests)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17892114483", "type": "olat", "access": "login" },
+                { "label": "Moodle (Abgabe Schreibauftrag)", "url": "https://moodle-app2.let.ethz.ch/course/view.php?id=28402", "type": "moodle", "access": "login" },
+                { "label": "VVZ-Eintrag 3488", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332792", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "jat",
+          "title": "Juristische Arbeitstechnik",
+          "kind": "Übung",
+          "groupOptions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+          "groups": [
+            {
+              "label": "Gruppe 1–12",
+              "covers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+              "lecturers": ["Übungsleitende (Lehrstuhl Griffel)"],
+              "links": [
+                { "label": "Kursseite (Lehrstuhl Griffel)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/griffel/Vorlesung_HS26.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs (Einschreibung)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17916887164", "type": "olat", "access": "login" },
+                { "label": "Gruppeneinteilung und Räume", "url": "https://www.ius.uzh.ch/dam/jcr:69427630-68c8-4ccd-95a0-861df76f8867/Gruppeneinteilung%20und%20R%C3%A4ume.pdf", "type": "pdf", "access": "public" },
+                { "label": "Programm JAT HS26", "url": "https://www.ius.uzh.ch/dam/jcr:37431131-2cb7-4a16-9eeb-b528548decfe/Programm_JAT_HS26.pdf", "type": "pdf", "access": "public" },
+                { "label": "Skript (ADAG Media, kostenpflichtig)", "url": "https://adagmedia.ch/juristische-arbeitstechnik-hs2026.html", "type": "extern", "access": "public" },
+                { "label": "VVZ-Eintrag 3485", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332791", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Einführung in die Rechtswissenschaft",
+      "code": "02SM60PM1",
+      "lectures": [
+        {
+          "key": "einf",
+          "title": "Einführung in die Rechtswissenschaft",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "shared": [
+            { "label": "Infobrief (Mahlmann/Vogt)", "url": "https://www.ius.uzh.ch/dam/jcr:92f87dff-e557-4839-b658-0b3e9908468c/Einfuehrung%20Infobrief.pdf", "type": "pdf", "access": "public" },
+            { "label": "E-Skript Einführung in die Rechtswissenschaft (Lehrstuhl Mahlmann)", "url": "https://www.rwi.uzh.ch/static/elt/lst-mahlmann/einfrw/default_0/de/html/index.html", "type": "lernhilfe", "access": "public" }
+          ],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Hans-Ueli Vogt"],
+              "links": [
+                { "label": "Kursseite (Lehrstuhl Vogt) – Skript & Folien", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/vogt/lehrveranstaltungen/vorlesungen/einfuehrungHS26.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "VVZ-Eintrag 3475", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332733", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Matthias Mahlmann"],
+              "links": [
+                { "label": "Vorlesungsseite (Lehrstuhl Mahlmann)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/mahlmann/vorlesungen.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs «Einführung in die Rechtswissenschaft HS26 Gruppe 2 (Mahlmann)»", "url": "https://lms.uzh.ch/url/RepositoryEntry/17923670077", "type": "olat", "access": "login" },
+                { "label": "VVZ-Eintrag 3476", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332784", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "infokomp",
+          "title": "Einführung in die juristische Informationskompetenz",
+          "kind": "Vorlesung",
+          "groups": [
+            {
+              "label": "Alle",
+              "covers": [],
+              "lecturers": ["Bettina Bernasconi"],
+              "note": "Keine Kursseite und kein OLAT-Link gefunden (Stand 13.09.2026).",
+              "links": [
+                { "label": "VVZ-Eintrag 3477", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332786", "type": "vvz", "access": "public" },
+                { "label": "Open Book «Juristische Informationskompetenz» (Bernasconi, UB)", "url": "https://dlf.uzh.ch/openbooks/ubb2recht/", "type": "lernhilfe", "access": "public" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Öffentliches Recht I, 1. Teil Pflichtmodul",
+      "code": "02SM60PM8T1",
+      "lectures": [
+        {
+          "key": "sr1",
+          "title": "Staatsrecht I",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Thomas Gächter", "Michael E. Meier"],
+              "links": [
+                { "label": "Kursseite (Lehrstuhl Gächter)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/gaechter/lehrveranstaltungen.html#Staatsrecht_I_(Gruppe_1)", "type": "lehrstuhl", "access": "public" },
+                { "label": "Reader Staatsrecht I HS2026", "url": "https://www.ius.uzh.ch/dam/jcr:8311b8a2-db3e-4570-8c37-44c6a7ba96d7/Reader_Staatsrecht_I_HS2026.pdf", "type": "pdf", "access": "public" },
+                { "label": "Vorlesungsprogramm Gruppe 1", "url": "https://www.ius.uzh.ch/dam/jcr:ce443e56-bd1e-42f0-beaf-74622f2c3221/Vorlesungsprogramm_Staatsrecht_Gr1_Gaechter_HS_26_v_2026_09_08.pdf", "type": "pdf", "access": "public" },
+                { "label": "OLAT-Kurs (Vorlesungsunterlagen)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17916888305", "type": "olat", "access": "login" },
+                { "label": "VVZ-Eintrag 3598", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333448", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Lorenz Langer"],
+              "note": "Präsenzvorlesung, keine Podcasts. Begleitband folgt.",
+              "links": [
+                { "label": "Kursseite (Lehrstuhl Langer)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/langer/Lehre/HS-2026/Staatsrecht-I-26.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs", "url": "https://lms.uzh.ch/url/RepositoryEntry/17916888145", "type": "olat", "access": "login" },
+                { "label": "VVZ-Eintrag 3599", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333449", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "gr1",
+          "title": "Grundrechte I",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Helen Keller"],
+              "links": [
+                { "label": "Kursseite (Prof. Keller, SCIL)", "url": "https://www.scil.uzh.ch/de/institutsmitglieder/keller/Lehrveranstaltungen/HS-26/Grundrechte-I.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs (Materialien)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17892114518", "type": "olat", "access": "login" },
+                { "label": "VVZ-Eintrag 3596", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333446", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Daniel Moeckli"],
+              "links": [
+                { "label": "Kursseite (Prof. Moeckli, SCIL)", "url": "https://www.scil.uzh.ch/de/institutsmitglieder/moeckli/HS-2026/Grundrechte-I-%28Gruppe-2%29.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "Programm Grundrechte I HS 2026", "url": "https://www.scil.uzh.ch/dam/jcr:ec0ede35-8084-45a4-bdef-f17167253a70/Programm%20Grundrechte%20I%20HS%202026.pdf", "type": "pdf", "access": "public" },
+                { "label": "Moodle-Kurs (Informationen & Materialien)", "url": "https://moodle-app2.let.ethz.ch/course/view.php?id=20843", "type": "moodle", "access": "login" },
+                { "label": "VVZ-Eintrag 3597", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333447", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "tutoer1",
+          "title": "Tutorate im Öffentlichen Recht I",
+          "kind": "Tutorat",
+          "groupOptions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+          "note": "Die HS2026-Seite nennt im Text noch «Herbstsemester 2025». Die Termine stehen im VVZ.",
+          "shared": [
+            { "label": "Tutorate-Seite (OA Armin Stähli)", "url": "https://www.ius.uzh.ch/de/staff/senior-assistants/oa-staehli/lehrveranstaltung/tutorate-oeffentliches-recht-I5.html", "type": "lehrstuhl", "access": "public" }
+          ],
+          "groups": [
+            { "label": "Gruppe 1", "covers": ["1"], "links": [{ "label": "VVZ-Eintrag 3600", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333450", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 2", "covers": ["2"], "links": [{ "label": "VVZ-Eintrag 3601", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333451", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 3", "covers": ["3"], "links": [{ "label": "VVZ-Eintrag 3607", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333452", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 4", "covers": ["4"], "links": [{ "label": "VVZ-Eintrag 3608", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333453", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 5", "covers": ["5"], "links": [{ "label": "VVZ-Eintrag 3609", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333454", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 6", "covers": ["6"], "links": [{ "label": "VVZ-Eintrag 3610", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333455", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 7", "covers": ["7"], "links": [{ "label": "VVZ-Eintrag 3611", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333456", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 8", "covers": ["8"], "links": [{ "label": "VVZ-Eintrag 3612", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333457", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 9", "covers": ["9"], "links": [{ "label": "VVZ-Eintrag 3613", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333458", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 10", "covers": ["10"], "links": [{ "label": "VVZ-Eintrag 3606", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333534", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 11 (Tutorati in diritto pubblico I, italienisch)", "covers": ["11"], "links": [{ "label": "VVZ-Eintrag 3614", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333535", "type": "vvz", "access": "public" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Privatrecht I, 1. Teil Pflichtmodul",
+      "code": "02SM60PM6T1",
+      "lectures": [
+        {
+          "key": "pers",
+          "title": "Personenrecht",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Dominique Jakob"],
+              "note": "Podcast wird laut Lehrstuhl über die Unterlagen-Seite aufgeschaltet.",
+              "links": [
+                { "label": "Kursseite Privatrecht I (Lehrstuhl Jakob)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/jakob/lehre/Unterlagen-HS-2026/Personenrecht-%28Vorlesung%2C-%C3%9Cbungen--Fallbearbeitung%29.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "Unterlagen zur Vorlesung", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/jakob/lehre/Unterlagen-HS-2026/Personenrecht-%28Vorlesung%2C-%C3%9Cbungen--Fallbearbeitung%29/Unterlagen-zur-Vorlesung.html", "type": "lehrstuhl", "access": "login" },
+                { "label": "VVZ-Eintrag 3626", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333548", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Walter Boente"],
+              "note": "Noch keine eigene Kursseite (Stand 13.09.2026). Der Lehrstuhl kündigt Direktzugänge an.",
+              "links": [
+                { "label": "Lehre HS 2026 (Lehrstuhl Boente)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente/Lehre/2026--Herbstsemester.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "VVZ-Eintrag 3627", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333549", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rechtsgeschichte (BLaw), 1. Teil Pflichtmodul",
+      "code": "02SM60PM4T1",
+      "lectures": [
+        {
+          "key": "rg",
+          "title": "Rechtsgeschichte",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "shared": [
+            { "label": "IUS Teaching App", "url": "https://teaching.ius.uzh.ch/", "type": "app", "access": "login" },
+            { "label": "Digital Flashcards (legalhistory.ch)", "url": "https://legalhistory.ch/", "type": "lernhilfe", "access": "public" },
+            { "label": "Legal History Online (Lehrstuhl Thier)", "url": "https://www.rwi.uzh.ch/static/elt/lst-thier/rgt/default_0/de/html/index.html", "type": "lernhilfe", "access": "public" }
+          ],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Andreas Thier"],
+              "links": [
+                { "label": "Kursseite (Lehrstuhl Thier)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/thier/Vorlesungen/Rechtsgeschichte.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs (Veranstaltungsmaterialien)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17753735500", "type": "olat", "access": "login" },
+                { "label": "VVZ-Eintrag 3481", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332787", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Johannes Liebrecht"],
+              "note": "Auf der Lehrstuhlseite ist noch kein OLAT-Link verlinkt (Stand 13.09.2026).",
+              "links": [
+                { "label": "Veranstaltungen HS26 (Lehrstuhl Liebrecht)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/liebrecht/Veranstaltungen-HS26.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "VVZ-Eintrag 3482", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332788", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Römisches Privatrecht, 1. Teil Pflichtmodul",
+      "code": "02SM60PM5T1",
+      "lectures": [
+        {
+          "key": "rpr",
+          "title": "Römisches Privatrecht I",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Ulrike Babusiaux", "E. Koch"],
+              "note": "Die HS26-Seite des Lehrstuhls ist nur mit Login zugänglich.",
+              "links": [
+                { "label": "Lehrveranstaltungen HS26 (Lehrstuhl Babusiaux)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/babusiaux/Lehre/Lehrveranstaltungen-HS26.html", "type": "lehrstuhl", "access": "login" },
+                { "label": "VVZ-Eintrag 3486", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332789", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Jörg Domisch"],
+              "links": [
+                { "label": "Kursseite mit Skript (Lehrstuhl Alonso)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/alonso/Vorlesungen-und-Seminare-HS26/R%C3%B6misches-Privatrecht-Gruppe-2.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "Podcast-Kanal «HS26 Römisches Privatrecht (Gruppe 2)»", "url": "https://uzh.mediaspace.cast.switch.ch/channel/HS26%2BR%25C3%25B6misches%2BPrivatrecht%2B%2528Gruppe%2B2%2529/135508", "type": "mediaspace", "access": "login" },
+                { "label": "VVZ-Eintrag 3487", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332790", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Strafrecht I, 1. Teil Pflichtmodul",
+      "code": "02SM60PM7T1",
+      "lectures": [
+        {
+          "key": "stat1",
+          "title": "Strafrecht AT I",
+          "kind": "Vorlesung",
+          "groupOptions": ["1", "2"],
+          "shared": [
+            { "label": "OLAT-Kurs Strafrecht AT I (von beiden Gruppen verlinkt)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17923670353", "type": "olat", "access": "login" }
+          ],
+          "groups": [
+            {
+              "label": "Gruppe 1",
+              "covers": ["1"],
+              "lecturers": ["Thierry Urwyler"],
+              "links": [
+                { "label": "Vorlesungsseite (Lehrstuhl Urwyler)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/urwyler/Lehre/vorlesungen.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "VVZ-Eintrag 3605", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333536", "type": "vvz", "access": "public" }
+              ]
+            },
+            {
+              "label": "Gruppe 2",
+              "covers": ["2"],
+              "lecturers": ["Julian Mausbach", "Sandra van der Stroom"],
+              "links": [
+                { "label": "Kursseite (PDoc van der Stroom)", "url": "https://www.ius.uzh.ch/de/staff/senior-assistants/pdoc-vdstroom/Lehrveranstaltungen-Seminare/HS-26/Strafrecht-AT-I-Gruppe-2.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "Podcast-Kanal «Strafrecht AT I Gruppe 2 (HS26)»", "url": "https://uzh.mediaspace.cast.switch.ch/channel/Strafrecht+AT+I+Gruppe+2+%28HS26%29/139136", "type": "mediaspace", "access": "login" },
+                { "label": "VVZ-Eintrag 3628", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333537", "type": "vvz", "access": "public" }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "agstr",
+          "title": "Arbeitsgemeinschaft Strafrecht AT I",
+          "kind": "Arbeitsgemeinschaft",
+          "groupOptions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+          "note": "Noch keine HS26-Seite gefunden (Stand 13.09.2026). Die Seite von Gruppe 2 schreibt «Informationen folgen». Die AGs beginnen ab Mitte Semester.",
+          "groups": [
+            { "label": "Gruppe 1", "covers": ["1"], "links": [{ "label": "VVZ-Eintrag 3615", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333538", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 2", "covers": ["2"], "links": [{ "label": "VVZ-Eintrag 3617", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333539", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 3", "covers": ["3"], "lecturers": ["S. Kübler"], "links": [{ "label": "VVZ-Eintrag 3618", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333540", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 4", "covers": ["4"], "links": [{ "label": "VVZ-Eintrag 3619", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333541", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 5", "covers": ["5"], "links": [{ "label": "VVZ-Eintrag 3620", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333542", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 6", "covers": ["6"], "links": [{ "label": "VVZ-Eintrag 3621", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333543", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 7", "covers": ["7"], "links": [{ "label": "VVZ-Eintrag 3622", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333544", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 8", "covers": ["8"], "links": [{ "label": "VVZ-Eintrag 3623", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333545", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 9", "covers": ["9"], "links": [{ "label": "VVZ-Eintrag 3624", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333546", "type": "vvz", "access": "public" }] },
+            { "label": "Gruppe 10", "covers": ["10"], "links": [{ "label": "VVZ-Eintrag 3616", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333547", "type": "vvz", "access": "public" }] }
+          ]
+        }
+      ]
+    }
+  ],
+  "upcomingFS27": [
+    { "module": "Öffentliches Recht I, 2. Teil", "components": ["Staatsrecht II", "Grundrechte II", "Übungen im Öffentlichen Recht I"] },
+    { "module": "Privatrecht I, 2. Teil", "components": ["Übungen im Personenrecht", "Fallbearbeitung im Personenrecht (Lehrstuhl Michel, FS 2027)"] },
+    { "module": "Rechtsgeschichte (BLaw), 2. Teil", "components": ["Übungen zur Rechtsgeschichte"] },
+    { "module": "Strafrecht I, 2. Teil", "components": ["Strafrecht AT II", "Übungen im Strafrecht I"] },
+    { "module": "Römisches Privatrecht, 2. Teil", "components": ["FS-Teil; Komponenten im VVZ-Text nicht benannt"] }
+  ]
+}

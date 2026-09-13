@@ -1,0 +1,10 @@
+{
+  "name": "uzh_ius_dashboard",
+  "version": "1.0.0",
+  "description": "Static link hub for UZH law HS26 Assessmentstufe course material",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "private": true
+}
