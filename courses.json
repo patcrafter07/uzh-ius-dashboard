@@ -2,7 +2,7 @@
   "semester": "HS26",
   "title": "HS26 Kurs-Links",
   "subtitle": "Rechtswissenschaftliche Fakultät UZH · Assessmentstufe, 1. Semester",
-  "verifiedOn": "2026-09-13",
+  "verifiedOn": "2026-09-18",
   "modules": [
     {
       "title": "Juristisches Arbeiten",
@@ -173,7 +173,7 @@
           "title": "Tutorate im Öffentlichen Recht I",
           "kind": "Tutorat",
           "groupOptions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
-          "note": "Die HS2026-Seite nennt im Text noch «Herbstsemester 2025». Die Termine stehen im VVZ.",
+          "note": "Die Tutorate-Seite ist auf HS2026 aktualisiert, nennt aber keinen OLAT-Kurs. Die Termine stehen im VVZ.",
           "shared": [
             { "label": "Tutorate-Seite (OA Armin Stähli)", "url": "https://www.ius.uzh.ch/de/staff/senior-assistants/oa-staehli/lehrveranstaltung/tutorate-oeffentliches-recht-I5.html", "type": "lehrstuhl", "access": "public" }
           ],
@@ -207,10 +207,11 @@
               "label": "Gruppe 1",
               "covers": ["1"],
               "lecturers": ["Dominique Jakob"],
-              "note": "Podcast wird laut Lehrstuhl über die Unterlagen-Seite aufgeschaltet.",
+              "note": "Kein OLAT-Kurs; Folien und Materialien liegen auf der Unterlagen-Seite (edu-ID-Login).",
               "links": [
                 { "label": "Kursseite Privatrecht I (Lehrstuhl Jakob)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/jakob/lehre/Unterlagen-HS-2026/Personenrecht-%28Vorlesung%2C-%C3%9Cbungen--Fallbearbeitung%29.html", "type": "lehrstuhl", "access": "public" },
                 { "label": "Unterlagen zur Vorlesung", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/jakob/lehre/Unterlagen-HS-2026/Personenrecht-%28Vorlesung%2C-%C3%9Cbungen--Fallbearbeitung%29/Unterlagen-zur-Vorlesung.html", "type": "lehrstuhl", "access": "login" },
+                { "label": "Podcastliste Personenrecht Gruppe 1", "url": "https://uzh.mediaspace.cast.switch.ch/playlist/dedicated/140515/0_n1e6pwg4", "type": "mediaspace", "access": "login" },
                 { "label": "VVZ-Eintrag 3626", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333548", "type": "vvz", "access": "public" }
               ]
             },
@@ -218,9 +219,10 @@
               "label": "Gruppe 2",
               "covers": ["2"],
               "lecturers": ["Walter Boente"],
-              "note": "Noch keine eigene Kursseite (Stand 13.09.2026). Der Lehrstuhl kündigt Direktzugänge an.",
+              "note": "Die Unterlagen werden im OLAT-Kurs schrittweise aufgeschaltet, spätestens zur jeweiligen Vorlesungszeit.",
               "links": [
                 { "label": "Lehre HS 2026 (Lehrstuhl Boente)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente/Lehre/2026--Herbstsemester.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs (Vorlesungsunterlagen)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17923670650", "type": "olat", "access": "login" },
                 { "label": "VVZ-Eintrag 3627", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51333549", "type": "vvz", "access": "public" }
               ]
             }
@@ -257,9 +259,10 @@
               "label": "Gruppe 2",
               "covers": ["2"],
               "lecturers": ["Johannes Liebrecht"],
-              "note": "Auf der Lehrstuhlseite ist noch kein OLAT-Link verlinkt (Stand 13.09.2026).",
+              "note": "Die Veranstaltung wird durch OLAT und die IUS Teaching App begleitet; alle Materialien liegen dort.",
               "links": [
-                { "label": "Veranstaltungen HS26 (Lehrstuhl Liebrecht)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/liebrecht/Veranstaltungen-HS26.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "Kursseite Rechtsgeschichte (Lehrstuhl Liebrecht)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/liebrecht/Veranstaltungen-HS26/Rechtsgeschichte-Vorlesung.html", "type": "lehrstuhl", "access": "public" },
+                { "label": "OLAT-Kurs (Veranstaltungsmaterialien)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17923670190", "type": "olat", "access": "login" },
                 { "label": "VVZ-Eintrag 3482", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332788", "type": "vvz", "access": "public" }
               ]
             }
@@ -281,9 +284,10 @@
               "label": "Gruppe 1",
               "covers": ["1"],
               "lecturers": ["Ulrike Babusiaux", "E. Koch"],
-              "note": "Die HS26-Seite des Lehrstuhls ist nur mit Login zugänglich.",
+              "note": "Die Lehrstuhlseite ist nur mit edu-ID-Login zugänglich. Der OLAT-Kurs ist dort verlinkt.",
               "links": [
-                { "label": "Lehrveranstaltungen HS26 (Lehrstuhl Babusiaux)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/babusiaux/Lehre/Lehrveranstaltungen-HS26.html", "type": "lehrstuhl", "access": "login" },
+                { "label": "Kursseite Röm. Privatrecht I (Lehrstuhl Babusiaux)", "url": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/babusiaux/Lehre/Lehrveranstaltungen-HS26/R%C3%B6misches-Privatrecht-I-%28Gruppe-1%290.html", "type": "lehrstuhl", "access": "login" },
+                { "label": "OLAT-Kurs (RPR OLAT)", "url": "https://lms.uzh.ch/url/RepositoryEntry/17913872714", "type": "olat", "access": "login" },
                 { "label": "VVZ-Eintrag 3486", "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2026/003/E/51332789", "type": "vvz", "access": "public" }
               ]
             },
